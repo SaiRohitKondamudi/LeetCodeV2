@@ -4,16 +4,10 @@ class Solution:
         maxprofit = 0
         
         while right < len(prices):
-            if prices[left] < prices[right]:
-                currprofit = prices[right] - prices[left]
-                maxprofit = max(maxprofit, currprofit)
-            else:
+            if prices[left] > prices[right]:
                 left = right
-            
+            else:
+                maxprofit = max(maxprofit, prices[right] - prices[left])
             right += 1
 
         return maxprofit
-
-
-
-        
