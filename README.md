@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaiRohitKondamudi/LeetCodeV2/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/SaiRohitKondamudi/LeetCodeV2/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiRohitKondamudi/LeetCodeV2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/SaiRohitKondamudi/LeetCodeV2/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SaiRohitKondamudi/LeetCodeV2/tree/master/0238-product-of-array-except-self) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SaiRohitKondamudi/LeetCodeV2/tree/master/0011-container-with-most-water) |
 | [1894-merge-strings-alternately](https://github.com/SaiRohitKondamudi/LeetCodeV2/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SaiRohitKondamudi/LeetCodeV2/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/SaiRohitKondamudi/LeetCodeV2/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
