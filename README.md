@@ -43,4 +43,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SaiRohitKondamudi/LeetCodeV2/tree/master/0011-container-with-most-water) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/SaiRohitKondamudi/LeetCodeV2/tree/master/2715-k-items-with-the-maximum-sum) |
+## Math
+|  |
+| ------- |
+| [2715-k-items-with-the-maximum-sum](https://github.com/SaiRohitKondamudi/LeetCodeV2/tree/master/2715-k-items-with-the-maximum-sum) |
 <!---LeetCode Topics End-->
