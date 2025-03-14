@@ -1,4 +1,5 @@
 class Solution:
+    # updated code
     def maxSubArray(self, nums: List[int]) -> int:
         maxsub = nums[0]
         currSum = 0
